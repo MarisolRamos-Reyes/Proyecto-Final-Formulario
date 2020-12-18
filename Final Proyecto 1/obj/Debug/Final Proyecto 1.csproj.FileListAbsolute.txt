@@ -1,0 +1,19 @@
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\bin\Debug\Final Proyecto 1.exe.config
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\bin\Debug\Final Proyecto 1.exe
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\bin\Debug\Final Proyecto 1.pdb
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final Proyecto 1.csprojAssemblyReference.cache
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Cuadrado.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Form1.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.MenuPerimetros.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Properties.Resources.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final Proyecto 1.csproj.GenerateResource.cache
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final Proyecto 1.exe
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final Proyecto 1.pdb
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Rectangulo.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Circulo.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Hexagono.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Pentagono.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Romboide.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Trapecio.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Final Proyecto 1\obj\Debug\Final_Proyecto_1.Triangulo.resources
